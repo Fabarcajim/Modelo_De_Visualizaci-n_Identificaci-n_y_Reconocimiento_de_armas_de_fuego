@@ -35,11 +35,16 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     |  
     ├── CITATION.md         
     |  
-    ├── data                
+    ├── data  
+    |   ├── README.md
+    |   ├── incidentes_relacionados_con_tiroteos_en_colegios_en_estados_unidos_desde_1970_por_estados.csv
+    |   ├── incidentes_relacionados_con_tiroteos_en_colegios_en_estados_unidos_desde_1970_por_nivel_educativo_del_centro.csv
+    ├── doc
+    |   ├── README.md
     |  
-    ├── doc                 
+    ├── results
+    |   ├── README.md
     |  
-    ├── results            
-    |  
-    └── src                 
+    └── src
+    |   ├── README.md
 
