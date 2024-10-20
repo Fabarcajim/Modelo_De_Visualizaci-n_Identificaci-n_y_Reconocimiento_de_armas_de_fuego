@@ -1,5 +1,6 @@
 # Modelo dee Visualización Identificación y Reconocimiento de armas de fuego
-Este repositorio explora el comportamiento de los tiroteos en Estados Unidos para la creación de un modelo de visualización, identificación y reconocimiento de armas de fuego para un proyecto de Tesis.
+
+Este repositorio explora el comportamiento de los tiroteos en Estados Unidos para la creación de un modelo de visualización, identificación y reconocimiento de armas de fuego para un proyecto de Tesis. Se limita exclusivamente a la **problemática del problema**, ya que aún no se dispone de las bases de datos necesarias para avanzar en la creación del modelo de visualización de armas de fuego.
 
 # Abstract
 
