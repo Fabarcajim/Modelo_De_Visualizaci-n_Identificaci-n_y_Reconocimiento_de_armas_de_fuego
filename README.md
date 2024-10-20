@@ -47,4 +47,5 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     |  
     └── src
     |   ├── README.md
+    |   ├── EDA.ipynb
 
